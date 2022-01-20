@@ -1,5 +1,5 @@
 # Routing-and-Authentication
 
-## Created with CodeSandbox <br>
+Created with CodeSandbox <br>
 **Email: example@example.com**
 **Password: password**
